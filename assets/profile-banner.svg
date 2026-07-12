@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="533" viewBox="0 0 1600 533" role="img" aria-labelledby="title desc">
+  <title id="title">Ricardo Penha — Arquitetura, Automação, RCA e Agentes de IA</title>
+  <desc id="desc">Banner profissional em tons azul-marinho e ciano com elementos de arquitetura de sistemas, automação, análise de causa raiz e agentes de inteligência artificial.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020b1f"/>
+      <stop offset="0.52" stop-color="#041a38"/>
+      <stop offset="1" stop-color="#020817"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="0.68" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="layer" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#0e7490" stop-opacity="0.35"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#0ea5e9" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="533" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="533" rx="28" fill="url(#grid)"/>
+
+  <g opacity="0.42" fill="#38bdf8">
+    <circle cx="1460" cy="72" r="2"/><circle cx="1480" cy="72" r="2"/><circle cx="1500" cy="72" r="2"/><circle cx="1520" cy="72" r="2"/>
+    <circle cx="1460" cy="92" r="2"/><circle cx="1480" cy="92" r="2"/><circle cx="1500" cy="92" r="2"/><circle cx="1520" cy="92" r="2"/>
+    <circle cx="1460" cy="112" r="2"/><circle cx="1480" cy="112" r="2"/><circle cx="1500" cy="112" r="2"/><circle cx="1520" cy="112" r="2"/>
+  </g>
+
+  <g transform="translate(86 126)">
+    <text x="0" y="64" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-2" fill="url(#name)">Ricardo Penha</text>
+    <text x="3" y="118" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" fill="#e2e8f0">Arquitetura <tspan fill="#22d3ee">•</tspan> Automação <tspan fill="#22d3ee">•</tspan> RCA <tspan fill="#22d3ee">•</tspan> Agentes de IA</text>
+    <rect x="3" y="158" width="72" height="3" rx="2" fill="#22d3ee"/>
+    <g transform="translate(3 205)">
+      <rect x="0" y="0" width="4" height="42" rx="2" fill="#22d3ee"/>
+      <circle cx="44" cy="13" r="12" fill="none" stroke="#22d3ee" stroke-width="3"/>
+      <path d="M24 42c2-13 10-20 20-20s18 7 20 20" fill="none" stroke="#22d3ee" stroke-width="3" stroke-linecap="round"/>
+      <text x="87" y="30" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#e2e8f0">Tecnologia é o meio. <tspan fill="#22d3ee" font-weight="600">Simplificar</tspan> é o objetivo.</text>
+    </g>
+  </g>
+
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.65" stroke-width="2">
+    <path d="M900 176 C980 176 978 96 1050 96"/>
+    <path d="M1030 256 C1110 256 1095 318 1160 318"/>
+    <path d="M1260 126 C1360 126 1360 218 1435 218"/>
+    <path d="M1240 385 C1330 385 1320 330 1410 330"/>
+  </g>
+  <g fill="#38bdf8" filter="url(#glow)">
+    <circle cx="900" cy="176" r="4"/><circle cx="1050" cy="96" r="4"/><circle cx="1030" cy="256" r="4"/><circle cx="1160" cy="318" r="4"/>
+    <circle cx="1260" cy="126" r="4"/><circle cx="1435" cy="218" r="4"/><circle cx="1240" cy="385" r="4"/><circle cx="1410" cy="330" r="4"/>
+  </g>
+
+  <g transform="translate(1050 50)">
+    <rect width="255" height="120" rx="18" fill="#071f42" fill-opacity="0.84" stroke="#0ea5e9" stroke-opacity="0.35"/>
+    <g transform="translate(28 29)" fill="none" stroke="#22d3ee" stroke-width="3">
+      <path d="M10 13 35 0l25 13v29L35 56 10 42Z"/><path d="m10 13 25 14 25-14M35 27v29"/>
+      <circle cx="10" cy="13" r="4" fill="#22d3ee"/><circle cx="35" cy="0" r="4" fill="#22d3ee"/><circle cx="60" cy="13" r="4" fill="#22d3ee"/><circle cx="35" cy="56" r="4" fill="#22d3ee"/>
+    </g>
+    <text x="104" y="42" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#f8fafc">ARQUITETURA</text>
+    <rect x="104" y="58" width="76" height="7" rx="4" fill="#1d4ed8" opacity="0.55"/><rect x="104" y="74" width="118" height="7" rx="4" fill="#1e3a5f"/><rect x="104" y="90" width="52" height="7" rx="4" fill="#0ea5e9" opacity="0.7"/>
+  </g>
+
+  <g transform="translate(855 186)">
+    <rect width="225" height="116" rx="18" fill="#071f42" fill-opacity="0.84" stroke="#0ea5e9" stroke-opacity="0.35"/>
+    <g transform="translate(29 27)" fill="none" stroke="#22d3ee" stroke-width="4">
+      <circle cx="29" cy="29" r="17"/><path d="M29 0v8M29 50v8M0 29h8M50 29h8M8 8l6 6M44 44l6 6M50 8l-6 6M14 44l-6 6"/>
+    </g>
+    <text x="106" y="43" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#f8fafc">AUTOMAÇÃO</text>
+    <rect x="106" y="60" width="78" height="7" rx="4" fill="#1d4ed8" opacity="0.55"/><rect x="106" y="76" width="60" height="7" rx="4" fill="#1e3a5f"/><rect x="106" y="92" width="45" height="7" rx="4" fill="#22d3ee" opacity="0.7"/>
+  </g>
+
+  <g transform="translate(918 330)">
+    <rect width="208" height="112" rx="18" fill="#071f42" fill-opacity="0.84" stroke="#0ea5e9" stroke-opacity="0.35"/>
+    <circle cx="52" cy="51" r="24" fill="none" stroke="#22d3ee" stroke-width="4"/><path d="m69 68 22 22" stroke="#22d3ee" stroke-width="5" stroke-linecap="round"/>
+    <text x="112" y="43" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#f8fafc">RCA</text>
+    <rect x="112" y="60" width="62" height="7" rx="4" fill="#1d4ed8" opacity="0.55"/><rect x="112" y="76" width="75" height="7" rx="4" fill="#1e3a5f"/><rect x="112" y="92" width="44" height="7" rx="4" fill="#22d3ee" opacity="0.7"/>
+  </g>
+
+  <g transform="translate(1330 195)">
+    <rect width="225" height="118" rx="18" fill="#071f42" fill-opacity="0.84" stroke="#0ea5e9" stroke-opacity="0.35"/>
+    <g transform="translate(26 24)" fill="none" stroke="#22d3ee" stroke-width="4">
+      <rect x="0" y="14" width="60" height="43" rx="15"/><circle cx="19" cy="35" r="4" fill="#22d3ee"/><circle cx="41" cy="35" r="4" fill="#22d3ee"/><path d="M30 14V3"/><circle cx="30" cy="0" r="4" fill="#22d3ee"/>
+    </g>
+    <text x="105" y="42" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#f8fafc">AGENTES DE IA</text>
+    <rect x="105" y="60" width="80" height="7" rx="4" fill="#1d4ed8" opacity="0.55"/><rect x="105" y="76" width="64" height="7" rx="4" fill="#1e3a5f"/><rect x="105" y="92" width="48" height="7" rx="4" fill="#22d3ee" opacity="0.7"/>
+  </g>
+
+  <g transform="translate(1190 215)" filter="url(#glow)">
+    <path d="m0 70 58-31 58 31-58 31Z" fill="url(#layer)" stroke="#38bdf8"/>
+    <path d="m0 88 58 31 58-31v22l-58 31-58-31Z" fill="#0c4a6e" fill-opacity="0.8" stroke="#38bdf8" stroke-opacity="0.55"/>
+    <path d="m0 112 58 31 58-31v22l-58 31-58-31Z" fill="#082f49" fill-opacity="0.85" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <path d="M58 39V5" stroke="#67e8f9" stroke-width="2"/><circle cx="58" cy="5" r="4" fill="#67e8f9"/>
+  </g>
+
+  <path d="M0 445 C180 360 280 520 485 420 C650 340 730 485 900 425" fill="none" stroke="#0ea5e9" stroke-opacity="0.38" stroke-width="2"/>
+  <path d="M0 465 C200 385 300 535 500 445 C650 378 760 500 930 445" fill="none" stroke="#22d3ee" stroke-opacity="0.18" stroke-width="1.5" stroke-dasharray="3 8"/>
+</svg>
